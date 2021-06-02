@@ -1,0 +1,16 @@
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.Form1.resources
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.Properties.Resources.resources
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.csproj.GenerateResource.cache
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\bin\Debug\ProvaN2Poo.exe.config
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\bin\Debug\ProvaN2Poo.exe
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\bin\Debug\ProvaN2Poo.pdb
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.exe
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.pdb
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.Pesquisas.resources
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.csproj.CopyComplete
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.TelaPedagio.resources
+C:\Users\alexa\Documents\CONTEUDO DA TERMO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\Nova pasta\ProvaN2Poo\ProvaN2Poo\obj\Debug\ProvaN2Poo.Nomes.resources
